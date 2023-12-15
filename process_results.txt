@@ -1,0 +1,24 @@
+PROCESS CAPABILITY ANALYSIS
+-----------------------------------
+Specifications
+
+Taget: 3.6
+LSL: 2
+USL: 4.5
+-----------------------------------
+Indices
+
+Cp: 1.29
+Cpk: 1.13
+z: 3.39
+-----------------------------------
+Summary Statistics
+
+Number of samples: 2405
+Sample mean: 3.41
+Sample std: 0.32
+Sample max: 4.71
+Sample min: 2.06
+Sample median: 3.39
+Percentage of data points below LSL: 0.0%
+Percentage of data points above USL: 0.04%
